@@ -1,3 +1,8 @@
 #include <string>
+using namespace std;
 
-std::string meet();
+
+double findMedian(string fileName);
+
+
+
